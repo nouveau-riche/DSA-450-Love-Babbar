@@ -10,7 +10,7 @@ Contribute to this repository by opening a [PR](./CONTRIBUTING.md) to this repos
 
 Make your DSA Strong & Inspire other's. Don't forget to leave :star: if you found this helpful.
 
-**Jump to:** [Array](#array) | [String](#string) | [Searching & Sorting](#searching&sorting) | [LinkedList](#linkedList) | [Binary Trees](#binarytrees) | [Binary Search Trees](#binarysearchtrees) | [Greedy](#greedy)
+**Jump to:** [Array](#array) | [String](#string) | [Searching&Sorting](#searching&sorting) | [LinkedList](#linkedList) | [Binary Trees](#binarytrees) | [BinarySearchTrees](#binarysearchtrees) | [Greedy](#greedy) | [BackTracking](#backtracking)
 
 ---
 
@@ -110,7 +110,7 @@ Make your DSA Strong & Inspire other's. Don't forget to leave :star: if you foun
 
 
 
-## Binary Search Trees
+## BinarySearchTrees
 
 
 
@@ -124,6 +124,8 @@ Make your DSA Strong & Inspire other's. Don't forget to leave :star: if you foun
 
 
 
+
+## BackTracking
 
 
 

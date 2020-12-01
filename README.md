@@ -10,7 +10,7 @@ Contribute to this repository by opening a [PR](./CONTRIBUTING.md) to this repos
 
 Make your DSA Strong & Inspire other's. Don't forget to leave :star: if you found this helpful.
 
-**Jump to:** [Array](#array) | [String](#string) | [Searching and Sorting](#searchingandsorting) | [LinkedList](#linkedList) | [Binary Trees](#binarytrees) | [BinarySearchTrees](#binarysearchtrees) | [Greedy](#greedy) | [BackTracking](#backtracking) | [StacksQueues](#stacksqueues) | [Heap](#heap) | [Graph](#graph) | [Trie](#trie) | [DynamicProgramming](#dynamicprogramming) | [BitManupulation](#bitmanupulation)
+**Jump to:** [Array](#array) | [String](#string) | [SearchingSorting](#searchingsorting) | [LinkedList](#linkedList) | [Binary Trees](#binarytrees) | [BinarySearchTrees](#binarysearchtrees) | [Greedy](#greedy) | [BackTracking](#backtracking) | [StacksQueues](#stacksqueues) | [Heap](#heap) | [Graph](#graph) | [Trie](#trie) | [DynamicProgramming](#dynamicprogramming) | [BitManupulation](#bitmanupulation)
 
 ---
 

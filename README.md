@@ -10,7 +10,7 @@ Contribute to this repository by opening a [PR](./CONTRIBUTING.md) to this repos
 
 Make your DSA Strong & Inspire other's. Don't forget to leave :star: if you found this helpful.
 
-**Jump to:** [Array](#array) | [String](#string)
+**Jump to:** [Array](#array) | [String](#string) | [Searching & Sorting](#searching & sorting) | [LinkedList](#linkedList) | [Binary Trees](#binary Trees) | [Binary Search Trees](#binary search Trees) | [Greedy](#greedy)
 
 ---
 
@@ -79,3 +79,26 @@ Make your DSA Strong & Inspire other's. Don't forget to leave :star: if you foun
 
 
 ## String
+
+
+
+
+
+
+
+
+
+
+## Searching & Sorting
+
+
+
+
+
+
+## LinkedList
+
+
+
+
+

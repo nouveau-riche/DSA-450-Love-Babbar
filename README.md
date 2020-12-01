@@ -10,7 +10,7 @@ Contribute to this repository by opening a [PR](./CONTRIBUTING.md) to this repos
 
 Make your DSA Strong & Inspire other's. Don't forget to leave :star: if you found this helpful.
 
-**Jump to:** [Array](#a) | [String](#b)
+**Jump to:** [Array](#array) | [String](#string)
 
 ---
 

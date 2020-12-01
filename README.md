@@ -1,6 +1,6 @@
 # DSA 450 Love Babbar
 
-[![DSA](https://dsa.re/badge.svg)](https://awesome.re) [![GitHub contributors](https://img.shields.io/github/contributors/nouveau-riche/DSA-450-Love-Babbar)](https://github.com/nouveau-riche/DSA-450-Love-Babbar/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/nouveau-riche/DSA-450-Love-Babbar)](https://github.com/nouveau-riche/DSA-450-Love-Babbar/issues) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/coderjojo/creative-profile-readme/pulls) [![HitCount](https://views.whatilearened.today/views/github/coderjojo/creative-profile-readme.svg)](https://github.com/nouveau-riche/DSA-450-Love-Babbar) [![website coderjojo.github.io](https://img.shields.io/website-up-down-green-red/http/coderjojo.github.io/creative-profile-readme.svg)](https://coderjojo.github.io/creative-profile-readme/)
+[![GitHub contributors](https://img.shields.io/github/contributors/nouveau-riche/DSA-450-Love-Babbar)](https://github.com/nouveau-riche/DSA-450-Love-Babbar/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/nouveau-riche/DSA-450-Love-Babbar)](https://github.com/nouveau-riche/DSA-450-Love-Babbar/issues) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/coderjojo/creative-profile-readme/pulls) [![HitCount](https://views.whatilearened.today/views/github/coderjojo/creative-profile-readme.svg)](https://github.com/nouveau-riche/DSA-450-Love-Babbar) [![website coderjojo.github.io](https://img.shields.io/website-up-down-green-red/http/coderjojo.github.io/creative-profile-readme.svg)](https://coderjojo.github.io/creative-profile-readme/)
 
 List of 450 Data Structure Algorithm for best Practice.
 
@@ -10,7 +10,7 @@ Contribute to this repository by opening a [PR](./CONTRIBUTING.md) to this repos
 
 Make your DSA Strong & Inspire other's. Don't forget to leave :star: if you found this helpful.
 
-**Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [Y](#y) | [Z](#z)
+**Jump to:** [A](#a) | [B](#b)
 
 ---
 

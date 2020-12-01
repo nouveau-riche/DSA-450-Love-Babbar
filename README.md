@@ -16,66 +16,20 @@ Make your DSA Strong & Inspire other's. Don't forget to leave :star: if you foun
 
 ## Array
 
-- [Abhinav Sharma](https://github.com/ABSphreak)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/ABSphreak.png">
-  </details>
-- [Abhishek Sisodiya](https://github.com/sisodiya2421)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/sisodiya2421.png">
-  </details>
-- [acervenky](https://github.com/acervenky)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/acervenky.png">
-  </details>
-- [Adam Alston](https://github.com/adamalston)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/AdamAlston.png">
-  </details>
-- [Adnan Azmee](https://github.com/adnanazmee)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/adnanazmee.jpg">
-  </details>
-- [Adrian Sudbury](https://github.com/asudbury)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/asudbury.png">
-  </details>
-- [Aditya Vikram Singh](https://github.com/AVS1508)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/AVS1508.png">
-  </details>
-- [afc163](https://github.com/afc163)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/afc163.png">
-  </details>
-- [Ahsan Khan](https://github.com/ahsankhan26)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/ahsankhan26.PNG">
-  </details>
-- [Akas Rai](https://github.com/akasrai)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/akasrai.png">
-  </details>
-- [Akash Patel](https://github.com/imakash3011)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/imakash3011.png">
-  </details>
-- [Alfred Dagenais](https://github.com/alfreddagenais)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/alfreddagenais.png">
-  </details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## String
@@ -121,7 +75,7 @@ Make your DSA Strong & Inspire other's. Don't forget to leave :star: if you foun
 ## Greedy
 
 
-## Stacks&Queues
+## Stacks & Queues
 
 
 

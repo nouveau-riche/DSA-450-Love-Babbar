@@ -1,8 +1,8 @@
 # DSA 450 Love Babbar
 
-[![GitHub contributors](https://img.shields.io/github/contributors/nouveau-riche/DSA-450-Love-Babbar)](https://github.com/nouveau-riche/DSA-450-Love-Babbar/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/nouveau-riche/DSA-450-Love-Babbar)](https://github.com/nouveau-riche/DSA-450-Love-Babbar/issues) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/coderjojo/creative-profile-readme/pulls) [![HitCount](https://views.whatilearened.today/views/github/coderjojo/creative-profile-readme.svg)](https://github.com/nouveau-riche/DSA-450-Love-Babbar) [![website coderjojo.github.io](https://img.shields.io/website-up-down-green-red/http/coderjojo.github.io/creative-profile-readme.svg)](https://coderjojo.github.io/creative-profile-readme/)
+[![GitHub contributors](https://img.shields.io/github/contributors/nouveau-riche/DSA-450-Love-Babbar)](https://github.com/nouveau-riche/DSA-450-Love-Babbar/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/nouveau-riche/DSA-450-Love-Babbar)](https://github.com/nouveau-riche/DSA-450-Love-Babbar/issues) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/coderjojo/creative-profile-readme/pulls) [![HitCount](https://views.whatilearened.today/views/github/nouveau-riche/DSA-450-Love-Babbar.svg)](https://github.com/nouveau-riche/DSA-450-Love-Babbar)
 
-List of 450 Data Structure Algorithm for best Practice.
+List of 450 Data Structure Algorithm by Love Babbar for best Practice.
 
 Follow this guide: [GitHub new feature to add README on your Profile ](https://dev.to/nouveau-riche/github-new-feature-to-add-readme-on-your-profile-ggc)
 
@@ -10,11 +10,11 @@ Contribute to this repository by opening a [PR](./CONTRIBUTING.md) to this repos
 
 Make your DSA Strong & Inspire other's. Don't forget to leave :star: if you found this helpful.
 
-**Jump to:** [A](#a) | [B](#b)
+**Jump to:** [Array](#a) | [String](#b)
 
 ---
 
-## A
+## Array
 
 - [Abhinav Sharma](https://github.com/ABSphreak)
   <details>
@@ -78,4 +78,4 @@ Make your DSA Strong & Inspire other's. Don't forget to leave :star: if you foun
   </details>
 
 
-## B
+## String

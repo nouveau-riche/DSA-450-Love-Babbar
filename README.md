@@ -89,7 +89,7 @@ Make your DSA Strong & Inspire other's. Don't forget to leave :star: if you foun
 
 
 
-## Searching & Sorting
+## Searching&Sorting
 
 
 
@@ -103,7 +103,7 @@ Make your DSA Strong & Inspire other's. Don't forget to leave :star: if you foun
 
 
 
-## Binary Trees
+## BinaryTrees
 
 
 

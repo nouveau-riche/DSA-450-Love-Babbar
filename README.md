@@ -123,11 +123,24 @@ Make your DSA Strong & Inspire other's. Don't forget to leave :star: if you foun
 
 ## Stacks&Queues
 
+
+
+
+
 ## Heap
+
+
+
 
 ## Graph
 
+
+
+
 ## DynamicProgramming
+
+
+
 
 ## BitManupulation
 
@@ -137,6 +150,9 @@ Make your DSA Strong & Inspire other's. Don't forget to leave :star: if you foun
 
 
 ## BackTracking
+
+
+
 
 ## Trie
 

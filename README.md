@@ -4,8 +4,6 @@
 
 List of 450 Data Structure Algorithm by Love Babbar for best Practice.
 
-Follow this guide: [GitHub new feature to add README on your Profile ](https://dev.to/nouveau-riche/github-new-feature-to-add-readme-on-your-profile-ggc)
-
 Contribute to this repository by opening a [PR](./CONTRIBUTING.md) to this repository. Refer to the [CONTRIBUTING](./CONTRIBUTING.md) file for direction.
 
 Make your DSA Strong & Inspire other's. Don't forget to leave :star: if you found this helpful.

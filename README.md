@@ -55,7 +55,7 @@ Make your DSA Strong & Inspire other's. Don't forget to leave :star: if you foun
 
 ## BinaryTrees
 
-- [level order traversal](https://github.com/ABSphreak)
+- [level order traversal](https://github.com/nouveau-riche/DSA-450-Love-Babbar/blob/main/EXAMPLES/lever%20order%20traversal.cpp)
 - [Abhishek Sisodiya](https://github.com/sisodiya2421)
 
 

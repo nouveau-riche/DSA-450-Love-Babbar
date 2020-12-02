@@ -4,8 +4,6 @@
 
 List of 450 Data Structure Algorithm by Love Babbar for best Practice.
 
-Follow this guide: [GitHub new feature to add README on your Profile ](https://dev.to/nouveau-riche/github-new-feature-to-add-readme-on-your-profile-ggc)
-
 Contribute to this repository by opening a [PR](./CONTRIBUTING.md) to this repository. Refer to the [CONTRIBUTING](./CONTRIBUTING.md) file for direction.
 
 Make your DSA Strong & Inspire other's. Don't forget to leave :star: if you found this helpful.
@@ -55,8 +53,8 @@ Make your DSA Strong & Inspire other's. Don't forget to leave :star: if you foun
 
 ## BinaryTrees
 
-- [level order traversal](https://github.com/ABSphreak)
-- [Abhishek Sisodiya](https://github.com/sisodiya2421)
+- [Level Order Traversal](https://github.com/nouveau-riche/DSA-450-Love-Babbar/blob/main/EXAMPLES/lever%20order%20traversal.cpp)
+- [Reverse Level Order Traversal](https://github.com/nouveau-riche/DSA-450-Love-Babbar/blob/main/EXAMPLES/reverse%20level%20order.cpp)
 
 
 

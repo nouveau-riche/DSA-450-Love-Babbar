@@ -57,6 +57,7 @@ Make your DSA Strong & Inspire other's. Don't forget to leave :star: if you foun
 
 - [Level Order Traversal](https://github.com/nouveau-riche/DSA-450-Love-Babbar/blob/main/EXAMPLES/lever%20order%20traversal.cpp)
 - [Reverse Level Order Traversal](https://github.com/nouveau-riche/DSA-450-Love-Babbar/blob/main/EXAMPLES/reverse%20level%20order.cpp)
+- [Height of tree](https://github.com/nouveau-riche/DSA-450-Love-Babbar/blob/main/EXAMPLES/height%20of%20a%20tree.cpp)
 
 
 

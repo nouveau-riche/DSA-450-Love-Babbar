@@ -46,6 +46,8 @@ Make your DSA Strong & Inspire other's. Don't forget to leave :star: if you foun
 
 ## LinkedList
 
+-[Reverse a LinkedList]
+-[Detect Loop in a LinkedList]
 
 
 

@@ -46,8 +46,8 @@ Make your DSA Strong & Inspire other's. Don't forget to leave :star: if you foun
 
 ## LinkedList
 
--[Reverse a LinkedList]
--[Detect Loop in a LinkedList]
+- [Reverse a LinkedList]
+- [Detect Loop in a LinkedList](https://github.com/nouveau-riche/DSA-450-Love-Babbar/blob/main/EXAMPLES/detect_loop.cpp)
 
 
 
